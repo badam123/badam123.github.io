@@ -91,6 +91,5 @@ p {
   line-height: 1.5;
 }
 .about{
-  margin-right: auto;
-  margin-left: auto;
+  text-align: center
 }
