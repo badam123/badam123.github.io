@@ -93,3 +93,6 @@ p {
 .about{
   text-align: center;
 }
+.about-author img, .post-author img {
+border-radius: 50%;
+}
